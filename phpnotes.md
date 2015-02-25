@@ -2,6 +2,8 @@
 
 ## Classes
 A class is a collection of variables and functions working with these variables.
+A class may contain its own **constants**, variables (called properties) and functions (called methods).
+  Inside a class variables = properties, functions = methods
 Sample Class definition: 
 
 ```php
@@ -18,6 +20,7 @@ class SampleClass
 }
 ?>
 ```
+The pseudo variable $this is available when a method is called from within an object context. $this is a reference to the calling object.
 
 
 # PHP Design Patterns
