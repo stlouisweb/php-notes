@@ -6,7 +6,7 @@
 In a factory pattern a **class** creates the **object** you want to use. 
 ### example:
 
-```
+```php
 <?php
 // Defining the Automobile class.
 class Automobile
