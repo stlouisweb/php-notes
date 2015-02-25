@@ -38,7 +38,11 @@ class AutomobileFactory
 // Using the factory to create an Automobile object.
 $Camaro = AutomobileFactory::create('Cheverolet', 'Camaro');
 
-print_r($camaro->getMakeAndModel());  //outputs "Cheverolet Camaro"
+print_r($Camaro->getMakeAndModel());  //outputs "Cheverolet Camaro"
 ```
 
-Using the factory method 
+Using the factory pattern like this is DRY because you could make changes to the Automobile class later and you would only need to modify the factory instead of every place in your project that uses the automobile class.
+The factory pattern also makes it easier to instantiate complex objects of a given class, you can do all the heavy lifting inside the factory.
+
+In class-based programming a factory is an abstraction of a constructor of a class, while in prototype-based programming a factory is an abstractions of a prototype object.
+
