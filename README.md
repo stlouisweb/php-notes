@@ -6,6 +6,6 @@ I will try to include all my [sources](https://github.com/stlouisweb/php-notes/b
 
 ## Table of contents:
 1.  [Object Oriented PHP](https://github.com/stlouisweb/php-notes/blob/master/phpnotes.md#object-oriented-php)
-+ [Classes](https://github.com/stlouisweb/php-notes/blob/master/phpnotes.md#classes)
+  + [Classes](https://github.com/stlouisweb/php-notes/blob/master/phpnotes.md#classes)
 2. [PHP Design Patterns](https://github.com/stlouisweb/php-notes/blob/master/phpnotes.md#php-design-patterns)
-+ [Factory Pattern](https://github.com/stlouisweb/php-notes/blob/master/phpnotes.md#factory-pattern)
+  + [Factory Pattern](https://github.com/stlouisweb/php-notes/blob/master/phpnotes.md#factory-pattern)
