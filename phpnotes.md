@@ -1,6 +1,3 @@
-# PHP Design Patterns
-
-
 #Object Oriented PHP
 
 ## Classes
@@ -22,6 +19,8 @@ class SampleClass
 ?>
 ```
 
+
+# PHP Design Patterns
 
 ## Factory Pattern
 
